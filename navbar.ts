@@ -1,1 +1,1 @@
-console.log('is navbar fixed, no. wait, maybe yes. actually, no. SCRUM-1')
+console.log('is navbar fixed, no. wait, maybe yes. actually, no. SCRUM-1. again')
