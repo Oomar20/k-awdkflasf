@@ -1,1 +1,1 @@
-console.log('is navbar fixed, no')
+console.log('is navbar fixed, no. wait, maybe yes')
