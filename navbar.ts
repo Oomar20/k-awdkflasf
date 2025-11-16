@@ -1,1 +1,1 @@
-console.log('navbar scrum 6')
+console.log('is navbar fixed')
